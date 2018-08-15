@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.openpojo:openpojo:0.8.7@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openpojo/openpojo/0.8.7/98739db345e2d4fb147eb7b574515de59ee03394/openpojo-0.8.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.openpojo/openpojo/0.8.7/6759e24e738264a6970fe9c8f08944c15d055050/openpojo-0.8.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
